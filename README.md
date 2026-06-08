@@ -55,30 +55,42 @@ Delivery style : Production hardening, clean UX, practical documentation, releas
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/asimsafeer/Flock-Manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asimsafeer&repo=Flock-Manager&theme=github_dark&hide_border=true" alt="Flock Manager repository card" />
-      </a>
+      <h3><a href="https://github.com/asimsafeer/Flock-Manager">Flock Manager</a></h3>
       <p><strong>Production poultry operations app</strong> with Firebase, offline sync, audit logs, reports, notifications, backup, and Android release hardening.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Offline--first-0A66C2?style=flat-square" alt="Offline first" />
+      </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/asimsafeer/EDU_X">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asimsafeer&repo=EDU_X&theme=github_dark&hide_border=true" alt="EDU X repository card" />
-      </a>
+      <h3><a href="https://github.com/asimsafeer/EDU_X">EDU X</a></h3>
       <p><strong>Offline-first school management platform</strong> for attendance, students, fees, exams, staff, reports, and operational administration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Drift-0A66C2?style=flat-square" alt="Drift" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/asimsafeer/NimbusAi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asimsafeer&repo=NimbusAi&theme=github_dark&hide_border=true" alt="Nimbus AI repository card" />
-      </a>
+      <h3><a href="https://github.com/asimsafeer/NimbusAi">Nimbus AI</a></h3>
       <p><strong>On-device AI assistant</strong> with model lifecycle management, local chat history, offline readiness, and mobile-first AI UX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/On--device%20AI-111827?style=flat-square" alt="On-device AI" />
+        <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma" />
+      </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/asimsafeer/ScriptFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asimsafeer&repo=ScriptFlow&theme=github_dark&hide_border=true" alt="ScriptFlow repository card" />
-      </a>
+      <h3><a href="https://github.com/asimsafeer/ScriptFlow">ScriptFlow</a></h3>
       <p><strong>Creator productivity app</strong> with teleprompter overlay controls, script management, import/export, backup, and Android platform channels.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="Android" />
+        <img src="https://img.shields.io/badge/Productivity-0A66C2?style=flat-square" alt="Productivity" />
+      </p>
     </td>
   </tr>
 </table>
@@ -107,22 +119,30 @@ Delivery style : Production hardening, clean UX, practical documentation, releas
 
 </div>
 
-## GitHub Analytics
+## GitHub Highlights
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>2,200+</strong><br />
+      yearly contributions
+    </td>
+    <td align="center" width="25%">
+      <strong>30+</strong><br />
+      repositories
+    </td>
+    <td align="center" width="25%">
+      <strong>Flutter</strong><br />
+      primary stack
+    </td>
+    <td align="center" width="25%">
+      <strong>Firebase</strong><br />
+      backend focus
+    </td>
+  </tr>
+</table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asimsafeer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Aasim Safeer GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimsafeer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Aasim Safeer top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=asimsafeer&theme=github-dark-blue&hide_border=true" alt="Aasim Safeer GitHub streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=asimsafeer&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Aasim Safeer GitHub trophies" />
-
-</div>
+> I removed fragile third-party stat images from this section so the profile stays clean even when external badge services are rate-limited or unavailable.
 
 ## Current Direction
 
