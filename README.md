@@ -141,12 +141,11 @@ Approach  :  Production hardening · Clean UX · Release readiness
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=asimsafeer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimsafeer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=c9d1d9&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=asimsafeer&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/light.svg">
+  <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/dark.svg" width="100%">
+</picture>
 
 </div>
 
