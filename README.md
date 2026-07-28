@@ -115,6 +115,32 @@ Approach  :  Production hardening · Clean UX · Release readiness
 
 ---
 
+## Also Building
+
+<div align="center">
+
+Alongside the public repos above, most of my recent work lives in private and team repos — shipping real apps for real users. A few, briefly:
+
+</div>
+
+| Project | What it is |
+|---|---|
+| **Lawgistra** | Legal practice management SaaS for Pakistani law firms |
+| **legalai-main** | Larger multi-tenant legal-tech platform — Firebase backend, web + mobile clients |
+| **digital-khata** | Digital credit ledger (udhaar book) for shopkeepers |
+| **kaya** | AI companion app with persistent memory |
+| **x_pair** | End-to-end encrypted 1:1 messaging app |
+| **shoutly-v2** | Voice-first walkie-talkie messenger |
+| **cutoutpro** | Offline AI background remover |
+| **construction-calculator-suite** | Offline construction math & material takeoff tool |
+| **Health tracker suite** | A family of privacy-first symptom/condition trackers (kidney stone, bloodwork, endo/PCOS, skin flare-ups) |
+| **Healthcare-society app** | Client app for a medical professional society |
+| **Client livestreaming platform** | VPS-based livestreaming infrastructure for a client |
+
+<br/>
+
+---
+
 ## Engineering Stack
 
 <div align="center">
