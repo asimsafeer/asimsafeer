@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1.1" fill="#58A6FF" opacity="0.05"/>
+    </pattern>
+    <linearGradient id="nameGrad" x1="-40%" y1="0" x2="0%" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="45%" stop-color="#E8F1FF"/>
+      <stop offset="55%" stop-color="#E8F1FF"/>
+      <stop offset="100%" stop-color="#0A66C2"/>
+      <animate attributeName="x1" values="-40%;140%;-40%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;180%;0%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="220" rx="14">
+        <animate attributeName="width" values="0;900" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="218" rx="14" fill="#0D1117"/>
+
+  <g clip-path="url(#reveal)">
+    <rect x="1" y="1" width="898" height="218" rx="14" fill="#0D1117"/>
+    <rect x="1" y="1" width="898" height="218" rx="14" fill="url(#scanlines)"/>
+
+    <circle cx="30" cy="30" r="6" fill="#FF5F56"/>
+    <circle cx="52" cy="30" r="6" fill="#FFBD2E"/>
+    <circle cx="74" cy="30" r="6" fill="#27C93F"/>
+
+    <text x="40" y="72" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" fill="#8B96A5">asim@github:~$ whoami</text>
+
+    <text x="40" y="128" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="46" font-weight="700" fill="url(#nameGrad)">Aasim Safeer</text>
+
+    <text x="40" y="166" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="16" fill="#58A6FF">Flutter &#183; Firebase &#183; Offline-First Mobile Systems</text>
+
+    <text x="40" y="198" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" fill="#8B96A5">$ ready_to_ship --always</text>
+    <rect x="279" y="187" width="9" height="15" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="898" height="218" rx="14" fill="none" stroke="#58A6FF" stroke-width="2" opacity="0.7" filter="url(#glow)"/>
+  <rect x="1" y="1" width="898" height="218" rx="14" fill="none" stroke="#58A6FF" stroke-width="1.2"/>
+</svg>

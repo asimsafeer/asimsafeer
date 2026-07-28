@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:02569B,100:0A66C2&text=Aasim%20Safeer&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=Flutter%20%E2%80%A2%20Firebase%20%E2%80%A2%20Offline-First%20Mobile%20Systems&descAlignY=62&descSize=19&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/banner-light.svg">
+  <img alt="Aasim Safeer" src="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/banner-dark.svg" width="100%">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=860&lines=Building+production-grade+Flutter+apps;Firebase-backed+mobile+architectures;Offline-first+systems+that+work+in+the+field;Android+release+hardening+%26+Play+Store+delivery)](https://git.io/typing-svg)
 
@@ -36,6 +40,34 @@ Focus     :  Flutter · Firebase · Offline-First Architecture
 Domains   :  Poultry Ops · School Management · Productivity · Mobile AI
 Approach  :  Production hardening · Clean UX · Release readiness
 ```
+
+<br/>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+**Jet Heatmap**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/light.svg">
+  <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/dark.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+**Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/asimsafeer/asimsafeer/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
 
 <br/>
 
@@ -156,22 +188,6 @@ Alongside the public repos above, most of my recent work lives in private and te
 **Tooling & Delivery**
 
 [![Python, GitHub Actions, Git, VS Code](https://skillicons.dev/icons?i=python,githubactions,git,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/light.svg">
-  <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/dark.svg" width="100%">
-</picture>
 
 </div>
 
