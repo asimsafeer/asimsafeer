@@ -158,16 +158,16 @@ Alongside the public repos above, most of my recent work lives in private and te
 | Project | What it is |
 |---|---|
 | **Lawgistra** | Legal practice management SaaS for Pakistani law firms |
-| **legalai-main** | Larger multi-tenant legal-tech platform — Firebase backend, web + mobile clients |
-| **digital-khata** | Digital credit ledger (udhaar book) for shopkeepers |
-| **kaya** | AI companion app with persistent memory |
-| **x_pair** | End-to-end encrypted 1:1 messaging app |
-| **shoutly-v2** | Voice-first walkie-talkie messenger |
-| **cutoutpro** | Offline AI background remover |
-| **construction-calculator-suite** | Offline construction math & material takeoff tool |
-| **Health tracker suite** | A family of privacy-first symptom/condition trackers (kidney stone, bloodwork, endo/PCOS, skin flare-ups) |
-| **Healthcare-society app** | Client app for a medical professional society |
-| **Client livestreaming platform** | VPS-based livestreaming infrastructure for a client |
+| **LegalAI** | Larger multi-tenant legal-tech platform — Firebase backend, web + mobile clients |
+| **Digital Khata** | Digital credit ledger (udhaar book) for shopkeepers |
+| **Kaya** | AI companion app with persistent memory |
+| **XPair** | End-to-end encrypted 1:1 messaging app |
+| **Shoutly** | Voice-first walkie-talkie messenger |
+| **CutoutPro** | Offline AI background remover |
+| **Construction Calculator Suite** | Offline construction math & material takeoff tool |
+| **Health Tracker Suite** | A family of privacy-first symptom/condition trackers (kidney stone, bloodwork, endo/PCOS, skin flare-ups) |
+| **Healthcare Society App** | Client app for a medical professional society |
+| **Client Livestreaming Platform** | VPS-based livestreaming infrastructure for a client |
 
 <br/>
 
@@ -179,11 +179,11 @@ Alongside the public repos above, most of my recent work lives in private and te
 
 **Mobile**
 
-[![Flutter, Dart, Android, Kotlin](https://skillicons.dev/icons?i=flutter,dart,android,kotlin&theme=dark)](https://skillicons.dev)
+[![Flutter, Dart, Android Studio, Kotlin](https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark)](https://skillicons.dev)
 
 **Backend & Data**
 
-[![Firebase, SQLite, Laravel, PHP](https://skillicons.dev/icons?i=firebase,sqlite,laravel,php&theme=dark)](https://skillicons.dev)
+[![Firebase, SQLite, Laravel, PHP, Node.js](https://skillicons.dev/icons?i=firebase,sqlite,laravel,php,nodejs&theme=dark)](https://skillicons.dev)
 
 **Tooling & Delivery**
 
@@ -242,6 +242,10 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0A66C2,60:02569B,100:0D1117&reversal=false" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/footer-light.svg">
+  <img alt="Available for new Flutter / Firebase engagements" src="https://raw.githubusercontent.com/asimsafeer/asimsafeer/main/footer-dark.svg" width="100%">
+</picture>
 
 </div>
