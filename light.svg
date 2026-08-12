@@ -338,7 +338,7 @@
     <rect x="598" y="104" width="11" height="11" rx="2" ry="2" fill="#30A14E"/>
     <rect x="598" y="118" width="11" height="11" rx="2" ry="2" fill="#EBEDF0"/>
     <rect x="612" y="34" width="11" height="11" rx="2" ry="2" fill="#40C463"/>
-    <rect x="612" y="48" width="11" height="11" rx="2" ry="2" fill="#30A14E"/>
+    <rect x="612" y="48" width="11" height="11" rx="2" ry="2" fill="#216E39"/>
     <rect x="612" y="62" width="11" height="11" rx="2" ry="2" fill="#30A14E"/>
     <rect x="612" y="76" width="11" height="11" rx="2" ry="2" fill="#40C463"/>
     <rect x="612" y="90" width="11" height="11" rx="2" ry="2" fill="#216E39"/>
@@ -409,7 +409,8 @@
     <rect x="738" y="118" width="11" height="11" rx="2" ry="2" fill="#40C463"/>
     <rect x="752" y="34" width="11" height="11" rx="2" ry="2" fill="#40C463"/>
     <rect x="752" y="48" width="11" height="11" rx="2" ry="2" fill="#40C463"/>
-    <rect x="752" y="62" width="11" height="11" rx="2" ry="2" fill="#9BE9A8"/>
+    <rect x="752" y="62" width="11" height="11" rx="2" ry="2" fill="#30A14E"/>
+    <rect x="752" y="76" width="11" height="11" rx="2" ry="2" fill="#9BE9A8"/>
   </g>
   <g>
     <circle cx="687.5" cy="53.5" r="9.35" fill="#0A66C2" opacity="0">
