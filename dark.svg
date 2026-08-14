@@ -411,7 +411,8 @@
     <rect x="752" y="48" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
     <rect x="752" y="62" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="752" y="76" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
-    <rect x="752" y="90" width="11" height="11" rx="2" ry="2" fill="#161B22"/>
+    <rect x="752" y="90" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
+    <rect x="752" y="104" width="11" height="11" rx="2" ry="2" fill="#161B22"/>
   </g>
   <g>
     <circle cx="687.5" cy="53.5" r="9.35" fill="#58A6FF" opacity="0">
