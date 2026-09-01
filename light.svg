@@ -408,7 +408,8 @@
     <rect x="738" y="104" width="11" height="11" rx="2" ry="2" fill="#9BE9A8"/>
     <rect x="738" y="118" width="11" height="11" rx="2" ry="2" fill="#30A14E"/>
     <rect x="752" y="34" width="11" height="11" rx="2" ry="2" fill="#9BE9A8"/>
-    <rect x="752" y="48" width="11" height="11" rx="2" ry="2" fill="#9BE9A8"/>
+    <rect x="752" y="48" width="11" height="11" rx="2" ry="2" fill="#40C463"/>
+    <rect x="752" y="62" width="11" height="11" rx="2" ry="2" fill="#EBEDF0"/>
   </g>
   <g>
     <circle cx="645.5" cy="53.5" r="9.35" fill="#0A66C2" opacity="0">
