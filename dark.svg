@@ -147,7 +147,7 @@
     <rect x="220" y="76" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
     <rect x="220" y="90" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
     <rect x="220" y="104" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
-    <rect x="220" y="118" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
+    <rect x="220" y="118" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="234" y="34" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="234" y="48" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
     <rect x="234" y="62" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
@@ -242,7 +242,7 @@
     <rect x="416" y="34" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="416" y="48" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="416" y="62" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
-    <rect x="416" y="76" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
+    <rect x="416" y="76" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="416" y="90" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
     <rect x="416" y="104" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
     <rect x="416" y="118" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
@@ -300,7 +300,7 @@
     <rect x="528" y="62" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
     <rect x="528" y="76" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
     <rect x="528" y="90" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
-    <rect x="528" y="104" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
+    <rect x="528" y="104" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="528" y="118" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
     <rect x="542" y="34" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="542" y="48" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
@@ -318,7 +318,7 @@
     <rect x="556" y="118" width="11" height="11" rx="2" ry="2" fill="#006D32"/>
     <rect x="570" y="34" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="570" y="48" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
-    <rect x="570" y="62" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
+    <rect x="570" y="62" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="570" y="76" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="570" y="90" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="570" y="104" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
@@ -399,7 +399,7 @@
     <rect x="724" y="76" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="724" y="90" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="724" y="104" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
-    <rect x="724" y="118" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
+    <rect x="724" y="118" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="738" y="34" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
     <rect x="738" y="48" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="738" y="62" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
@@ -407,9 +407,10 @@
     <rect x="738" y="90" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="738" y="104" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
     <rect x="738" y="118" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
-    <rect x="752" y="34" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
+    <rect x="752" y="34" width="11" height="11" rx="2" ry="2" fill="#26A641"/>
     <rect x="752" y="48" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
-    <rect x="752" y="62" width="11" height="11" rx="2" ry="2" fill="#161B22"/>
+    <rect x="752" y="62" width="11" height="11" rx="2" ry="2" fill="#39D353"/>
+    <rect x="752" y="76" width="11" height="11" rx="2" ry="2" fill="#0E4429"/>
   </g>
   <g>
     <circle cx="617.5" cy="53.5" r="9.35" fill="#58A6FF" opacity="0">
